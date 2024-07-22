@@ -1,0 +1,3 @@
+pip install accelerate -U
+pip install transformers[torch] -U
+pip install torch -U
